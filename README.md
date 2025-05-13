@@ -1,6 +1,6 @@
-# 👨‍💻 Nguyễn Minh Ý – Deep Learning Enthusiast | Data Science Student
+# 👨‍💻 Nguyễn Minh Ý – Data Science Student
 
-Xin chào mọi người! Mình là **Nguyễn Minh Ý**, một sinh viên đang theo học **Khoa học Dữ liệu** với niềm đam mê mãnh liệt dành cho **Deep Learning** và **Computer Vision** 👁️‍🗨️🧠.
+Xin chào ! Mình là **Nguyễn Minh Ý**, một sinh viên đang theo học **Khoa học Dữ liệu** với niềm đam mê mãnh liệt dành cho **Deep Learning** và **Computer Vision** 👁️‍🗨️🧠.
 
 Đây là repo chứa những project cá nhân và nghiên cứu của mình – từ các mô hình nhận diện hình ảnh siêu khủng đến những ứng dụng AI chạy mượt trên Docker 💻🐳.
 
@@ -24,11 +24,6 @@ Xin chào mọi người! Mình là **Nguyễn Minh Ý**, một sinh viên đang
 | 🌐 FastAPI / Flask | Triển khai mô hình AI dưới dạng web API |
 
 ## 📂 Nội dung repo
-
-Tuỳ vào repo cụ thể bạn đang xem, đây có thể là:
-- Mô hình nhận diện ảnh y tế, phân loại vật thể, hay theo dõi đối tượng 🎯
-- Dự án nhỏ luyện tập về học sâu và thị giác máy tính
-- Các demo chạy trên Docker hoặc API để tương tác real-time
 
 ## 📫 Kết nối với mình nè
 
