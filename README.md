@@ -10,8 +10,6 @@ Repo này tổng hợp các project cá nhân và nghiên cứu AI của mình �
 - **Linux**, **Docker**, **Jupyter Notebook**
 - **FastAPI**, **Flask** cho AI API/web service
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanatole&show_icons=true&theme=radical)
-
 ## 📫 Kết nối
 
 - 📧 Email: nguyenminhy7714@gmail.com  
